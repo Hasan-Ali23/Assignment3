@@ -11,7 +11,7 @@ from supplier_section import Supplier
 from venue_section import Venue
 from check_credentials import authenticate, create_account
 
-
+ 
 class MainMenu:
     # Defining the initialization method for the MainMenu class
     def __init__(self, master):
